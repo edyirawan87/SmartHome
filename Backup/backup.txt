@@ -1,1 +1,5 @@
-File backup konfigurasi ESP
+File backup konfigurasi ESP yang berektensi .dat di upload pada Tools --> Settings ---> Load
+
+ESP_1 = Lampu Balkon Atas
+ESP_3 = Lampu Teras 2
+ESP_2 = Lampu Teras 1
