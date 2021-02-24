@@ -18,6 +18,6 @@ Wiring Diagram :
 
 Cara Kerja Alat :
 
-Wemos D1 Mini sebagai kontroller untuk mengatur proses timing flushing filter kolam koi. Secara umum komunikasi antara Wemos D1 Mini dengan OpenHAB menggunakan HTTP Get Request & MQTT Protocol. OpenHAB akan mengirimkan perintah melalui HTTP Get Request serta Wemos akan mengirimkan status kondisi Pompa, Aerator dan Valve menggunakan Protokol MQTT.
+Wemos D1 Mini sebagai kontroller untuk mengatur proses timer flushing filter kolam koi. Secara umum komunikasi antara Wemos D1 Mini dengan OpenHAB menggunakan HTTP Get Request & MQTT Protocol. OpenHAB akan mengirimkan perintah ke Wemos untuk menjalankan Rule melalui HTTP Get Request serta OpenHAB akan membaca status kondisi Pompa, Aerator dan Valve menggunakan Protokol MQTT.
 
 ![mqtt](https://user-images.githubusercontent.com/73607420/109001869-0e4ef080-76d8-11eb-9ede-bc23f0026119.png)
