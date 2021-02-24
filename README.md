@@ -11,3 +11,7 @@ Pertama kali, dilakukan konfigurasi jaringan internet rumah menggunakan provider
 
 
 # DIY Timer Controller Filter Kolam Ikan Koi
+
+Wiring Diagram :
+
+![wemos pompa](https://user-images.githubusercontent.com/73607420/108999782-62a4a100-76d5-11eb-871b-d033a3fcc068.png)
