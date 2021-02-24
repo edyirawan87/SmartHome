@@ -7,7 +7,7 @@ Untuk mengatasi masalah diatas maka dirancanglah sebuah sistem smarthome dengan 
 Pertama kali, dilakukan konfigurasi jaringan internet rumah menggunakan provider Speedy serta menggunakan Mikrotik sebagai router jaringan utama sehingga peralatan yang terhubung ke jaringan baik melalui Wifi dan LAN akan ditangani oleh mikrotik.
  
  Topologi Jaringan :
-![Home3](https://user-images.githubusercontent.com/73607420/109022372-56790d80-76ee-11eb-820a-fd92679bc450.png)
+![Home3](https://user-images.githubusercontent.com/73607420/109022827-c9828400-76ee-11eb-8ba4-eaeb4f6dc4fa.png)
 
 
 # DIY Timer Controller Filter Kolam Ikan Koi
