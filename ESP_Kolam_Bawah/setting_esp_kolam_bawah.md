@@ -29,4 +29,8 @@ Langkah - langkah flash WEMOS D1 Mini menggunakan Firmware Easy ESP :
 
 ![flash2](https://user-images.githubusercontent.com/73607420/109031066-f3d83f80-76f6-11eb-84f7-88cacde84e17.png)
 
+8. Setelah proses flash selesai, lakukan reset wemos D1 Mini kemudian cek SSID Wifi dari wemos D1 Mini apakah sudah ada
 
+![wifi](https://user-images.githubusercontent.com/73607420/109031665-82e55780-76f7-11eb-9dad-4229c83f5850.png)
+
+9. Apabila proses flash berhasil, maka akan muncul SSID Wifi dari wemos D1 Mini dengan Nama : ESP-Easy
