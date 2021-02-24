@@ -14,3 +14,4 @@ Langkah - langkah flash WEMOS D1 Mini menggunakan Firmware Easy ESP :
 2. Install Driver USB CH340
 3. Hubungkan Wemos D1 Mini ke Komputer menggunakan USB
 4. Setelah driver CH340 terinstal cek port wemos pada device manager :
+![devmgmt](https://user-images.githubusercontent.com/73607420/109028436-6267ce00-76f4-11eb-86f3-8174a48f68cd.PNG)
