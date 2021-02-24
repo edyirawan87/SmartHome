@@ -23,3 +23,5 @@ Langkah - langkah flash WEMOS D1 Mini menggunakan Firmware Easy ESP :
 
 6. Setelah flash tool terbuka, setting Port sesuai pada device manager tadi, pilih firmware(.bin) : blank_4Mb.bin --> pada saat pertama kali flash, sebaiknya flash terlebih dahulu menggunakan firmware blank agar semua file / konfigurasi pada wemos terhapus total. Setting baudrate 115.200 kemudian klik Flash untuk memulai proses flash :
 
+![flash1](https://user-images.githubusercontent.com/73607420/109029885-dfe00e00-76f5-11eb-81bb-9bf1d280f206.png)
+
