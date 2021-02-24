@@ -15,3 +15,7 @@ Pertama kali, dilakukan konfigurasi jaringan internet rumah menggunakan provider
 Wiring Diagram :
 
 ![wemos pompa](https://user-images.githubusercontent.com/73607420/108999782-62a4a100-76d5-11eb-871b-d033a3fcc068.png)
+
+Cara Kerja Alat :
+
+Wemos D1 Mini sebagai kontroller pompa, aerator dan solenoid valve berfungsi untuk mengatur proses flushing filter kolam koi
