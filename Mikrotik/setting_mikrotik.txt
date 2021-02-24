@@ -1,2 +1,6 @@
 # Konfigurasi Mikrotik Sebagai Router jaringan utama
 
+Login ke mikrotik dapat menggunakan WEB / Winbox di IP : #192.168.100.2
+  
+  User     : admin
+  Password : admin12345
