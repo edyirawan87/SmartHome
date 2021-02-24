@@ -9,6 +9,7 @@ Pertama kali, dilakukan konfigurasi jaringan internet rumah menggunakan provider
  Topologi Jaringan :
 ![Home3](https://user-images.githubusercontent.com/73607420/109022827-c9828400-76ee-11eb-8ba4-eaeb4f6dc4fa.png)
 
+Peralatan yang akan di integrasikan dengan OpenHAB adalah CCTV, lampu Teras / Balkon, Timer Controller System Flushing Filter Kolam Koi.
 
 # DIY Timer Controller Filter Kolam Ikan Koi
 
