@@ -17,4 +17,6 @@ Langkah - langkah flash WEMOS D1 Mini menggunakan Firmware Easy ESP :
 
 ![devmgmt](https://user-images.githubusercontent.com/73607420/109028436-6267ce00-76f4-11eb-86f3-8174a48f68cd.PNG)
 
-5. 
+5. Buka aplikasi flash Easy ESP :
+
+![flash](https://user-images.githubusercontent.com/73607420/109028711-a955c380-76f4-11eb-8b74-f063a636f01d.PNG)
